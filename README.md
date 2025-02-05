@@ -54,6 +54,10 @@ python visualize_refinement.py --data_root /path/to/cityscapes --id ID
 
 The visualization will be stored in the `plots/` folder.
 
+## License
+
+The repository is licensed under the [Apache 2.0 license](LICENSE).
+
 ## Acknowledgements
 
 [SAM](https://github.com/facebookresearch/segment-anything)
